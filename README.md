@@ -5,7 +5,6 @@
   <img height="350" src="https://i.ibb.co/VBTYCsS/lv-0-20230904205407.gif"/>
 </div>
 
-
 ###
 <br clear="both"/>
 <h3 align="center">From Indonesia and student at Universitas Negeri Jakarta (UNJ)</h3>
