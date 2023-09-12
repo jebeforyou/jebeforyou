@@ -2,7 +2,7 @@
 
 ###
 <div align="center">
-  <img height="300" src="https://github.com/jebeforyou/jebeforyou/blob/main/bg-animal.gif"/>
+  <img src="https://github.com/jebeforyou/jebeforyou/blob/main/transparent-bg.png"/>
 </div>
 
 ###
